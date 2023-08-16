@@ -36,64 +36,20 @@ export default function Home() {
             <tbody>
               <tr className="bg-white border-b  dark:border-gray-700">
                 <th scope="row" className="px-6 py-4 font-medium text-black whitespace-nowrap">
-                  Apple MacBook Pro 17"
-                </th>
-                <td className="px-6 py-4">
-                  Silver
-                </td>
-                <td className="px-6 py-4">
-                  Laptop
-                </td>
-                
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a>
-                </td>
-              </tr>
-              <tr className="border-b bg-gray-50  dark:border-gray-700">
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap ">
-                  Microsoft Surface Pro
-                </th>
-                <td className="px-6 py-4">
-                  White
-                </td>
-                <td className="px-6 py-4">
-                  Laptop PC
-                </td>
-                
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a>
-                </td>
-              </tr>
-              <tr className="bg-white border-b  dark:border-gray-700">
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">
-                  Magic Mouse 2
-                </th>
-                <td className="px-6 py-4">
-                  Black
-                </td>
-                <td className="px-6 py-4">
-                  Accessories
-                </td>
-                
-                <td className="px-6 py-4">
-                  <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a>
-                </td>
-              </tr>
-              <tr className="border-b bg-gray-50  dark:border-gray-700">
-                <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">
-                  Google Pixel Phone
+                  Yash Gaur
                 </th>
                 <td className="px-6 py-4">
                   yashgaur2525@gmail.com
                 </td>
                 <td className="px-6 py-4">
-                  Phone
+                  92459834594
                 </td>
                 
                 <td className="px-6 py-4">
                   <a href="#" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Delete</a>
                 </td>
               </tr>
+              
               
             </tbody>
           </table>
